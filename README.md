@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **achiyodas@gmail.com**
 
-- ⚡ Fun fact **I got my own PC when I joined the university at 19 years old.**
+- ⚡ Fun fact **I got my own PC when I joined university at 19 years old.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
