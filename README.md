@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yonatan</h1>
-<h3 align="center">A passionate Full-stack developer.</h3>
+<h3 align="center">A passionate developer from Ethiopia.</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/y938/y938/refs/heads/main/DALL%C2%B7E%202025-02-14%2015.06.21%20-%20An%20anime-style%20character%20inspired%20by%20the%20user%2C%20seated%20at%20a%20high-tech%20programming%20setup.%20The%20character%20has%20dark%20hair%2C%20brown%20eyes%2C%20and%20wears%20eyeglasses.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y938&label=Profile%20views&color=0e75b6&style=flat" alt="y938" /> </p>
 
